@@ -1,1 +1,1 @@
-# AI_Panda_Numpy
+#pandas_tutoral
